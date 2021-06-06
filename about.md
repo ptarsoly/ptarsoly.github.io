@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello, my name is Peter! I am a Master's student at [Florida Institute of Technology](https://www.fit.edu/) majoring in [Computer Engineering](https://www.fit.edu/engineering-and-science/academics-and-learning/computer-engineering-and-sciences/). Some of my current professional interests are machine learning, signal processing, speech recognition, and computer systems.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I created this webpage to document my current research. Feel free to reach out with any questions or comments.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+ptarsoly2016 *at* my *dot* fit *dot* edu
