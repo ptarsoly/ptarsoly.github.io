@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello, my name is Peter! I am a Master's student at [Florida Institute of Technology](https://www.fit.edu/) majoring in [Computer Engineering](https://www.fit.edu/engineering-and-science/academics-and-learning/computer-engineering-and-sciences/). Some of my current professional interests are machine learning, signal processing, speech recognition, and computer systems.
+Welcome to my webpage! I am a Master's student at [Florida Institute of Technology](https://www.fit.edu/) studying [Computer Engineering](https://www.fit.edu/engineering-and-science/academics-and-learning/computer-engineering-and-sciences/). Some of my current professional interests are machine learning, signal processing, speech recognition, and computer systems.
 
 I created this webpage to document my current research. Feel free to reach out with any questions or comments.
 
